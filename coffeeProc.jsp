@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>인사말</title>
+<title>커피상품</title>
 </head>
 <body>
 

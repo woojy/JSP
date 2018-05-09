@@ -4,19 +4,20 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>Template 페이지</title>
+<title>Waffle Shop</title>
 <style>
 	body{
-		background-image:url('image/waffle_ban.jpg');
+		background-image:url('image/waffle_banner.jpg');
 		background-size:cover;
 	}
 </style>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
 </head>
 <body>
 <%
 	String contentPage = request.getParameter("CONTENTPAGE");
-
 %>
+
 <table width="100%" height="100%" cellpadding="2" cellspacing="0">
 <tr height="200">
 	<td colspan="2">

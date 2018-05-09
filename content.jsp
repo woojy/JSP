@@ -8,9 +8,9 @@
 <style>
 	p{
 		text-shadow:2px 2px 3px gray;
-		font-weight:20px;
+		font-weight:100;
 		font-family:italy;
-		font-size:50px;
+		font-size:60px;
 		color:white;
 	}
 	padding: 30px;
@@ -30,7 +30,7 @@
 <article>
 <img src="image/visual_top.png">
 	<p>Waffles with 12 flavors of fresh cream</p>
-	<font color="white" style="text-shadow:2px 2px 3px gray;">COFFE & WAFFLE</font><br>
+	<font color="white">COFFE & WAFFLE</font><br><br><br>
 <img src="image/visual_bot.png">
 </article>
 </center>
