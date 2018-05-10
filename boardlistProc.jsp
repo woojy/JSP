@@ -5,7 +5,7 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>Insert title here</title>
+<title>게시판 목록</title>
 <style>
 div.campus{
 	background-color: white;
@@ -22,7 +22,7 @@ h2{
 </head>
 <body>
 <%
- 	String dirPath = application.getRealPath("/WEB-INF/Text");
+ 	String dirPath = application.getRealPath("/WEB-INF/bbs");
 	//out.println(dirpath);
 	File dir = new File(dirPath);
 	String filenames[] = dir.list();
@@ -33,11 +33,11 @@ h2{
 	} */
 %>
 
-<h2>캠퍼스 안내</h2>
+<h2>게시글 목록</h2>
 <div class="campus">
 <%
 	for(String filename : filenames ){%>
-		<a href="campusReader.jsp?FILE_NAME=<%=filename%>"><%=filename %></a>
+		<a href="boardlistReader.jsp?FILE_NAME=<%=filename%>"><%=filename %></a>
 		<br>
 <%  }
 %>	

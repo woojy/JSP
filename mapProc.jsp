@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>커피상품</title>
+<title>오시는 길</title>
 </head>
 <body>
 

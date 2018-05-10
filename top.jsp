@@ -30,8 +30,8 @@
 <a href="main.jsp"><img src="image/waffle_logo.png"></a><br><br><br>
 <div class="top">
 <font color="white"><a class="a" href="story.jsp">와플대학스토리</a> &nbsp;&nbsp;&nbsp; <a class="a" href="menu.jsp">메뉴소개</a> &nbsp;&nbsp;&nbsp;
- <a class="a" href="campus.jsp">캠퍼스안내</a> &nbsp;&nbsp;&nbsp; <a class="a" href="ven.jsp">창업안내</a> &nbsp;&nbsp;&nbsp; 
-<a class="a" href="comunity.jsp">커뮤니티</a></font>
+ <a class="a" href="campus.jsp">캠퍼스 안내</a> &nbsp;&nbsp;&nbsp; <a class="a" href="ven.jsp">창업안내</a> &nbsp;&nbsp;&nbsp; 
+<a class="a" href="boardlist.jsp">게시판 목록</a>&nbsp;&nbsp;&nbsp;<a class="a" href="board.jsp">게시판쓰기</a></font>
 </div>
 </center>
 </body>

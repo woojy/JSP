@@ -4,7 +4,9 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>Waffle Shop</title>
+<link rel="icon" href="image/logo.png" sizes="16x16 32x32" type="image/png">
+
+<title>재윤이의와플가게</title>
 <style>
 	body{
 		background-image:url('image/waffle_banner.jpg');
@@ -25,7 +27,7 @@
 	</td>
 </tr>
 <tr>
-	<td width="350" rows="2">
+	<td width="350" height="80%" rows="2">
 		<jsp:include page="<%=contentPage %>" flush="false"/>
 	</td>
 </tr>

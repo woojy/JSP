@@ -20,16 +20,23 @@
         background-color: black;
         opacity: 0.5;
         width:100%;
-        height:50px;
+        height:100px;
         line-height: 50px;
         position: fixed;
         bottom:0;
 	 } 
+	 div.abc{
+	 	font-size:20px;
+	 	border-color: white;
+	 	color:white;
+	 	
+	 }
 </style>
 </head>
 <body>
 <center>
 <div class="bot">
+<a class="a" href="login.jsp">로그인</a>&nbsp;&nbsp;&nbsp;<a class="a" href="signup.jsp">회원가입</a><br>
 <font color="white"><a class="a" href="#">오시는길</a> &nbsp;&nbsp;&nbsp; <a class="a" href="#">전화번호 : 010-2924-3770</a> &nbsp;&nbsp;&nbsp;
  <a class="a" href="#">이메일 : woojy3770@e-mirim.hs.kr</a>
 </div>
